@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Agent Orchestrator"
+  short_description: "Create product-chain design, dev, and QA agents."
+  default_prompt: "Use $product-agent-orchestrator to turn my product idea into a product-chain team with CEO, design, development, and QA agent threads."
